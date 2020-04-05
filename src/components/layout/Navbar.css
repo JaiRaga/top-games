@@ -1,0 +1,9 @@
+.navbar {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 40px;
+  background: #24292e;
+  color: hsla(0, 0%, 100%, 0.7);
+  text-align: center;
+  padding-top: 12px;
+}

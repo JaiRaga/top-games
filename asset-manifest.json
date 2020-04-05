@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/top-games/static/css/main.7ac8668f.chunk.css",
+    "main.js": "/top-games/static/js/main.bde0f590.chunk.js",
+    "main.js.map": "/top-games/static/js/main.bde0f590.chunk.js.map",
+    "runtime-main.js": "/top-games/static/js/runtime-main.16fc4c08.js",
+    "runtime-main.js.map": "/top-games/static/js/runtime-main.16fc4c08.js.map",
+    "static/js/2.0c4d75d6.chunk.js": "/top-games/static/js/2.0c4d75d6.chunk.js",
+    "static/js/2.0c4d75d6.chunk.js.map": "/top-games/static/js/2.0c4d75d6.chunk.js.map",
+    "index.html": "/top-games/index.html",
+    "precache-manifest.2c9a3231bde76c8a9f4be07745bf4e2f.js": "/top-games/precache-manifest.2c9a3231bde76c8a9f4be07745bf4e2f.js",
+    "service-worker.js": "/top-games/service-worker.js",
+    "static/css/main.7ac8668f.chunk.css.map": "/top-games/static/css/main.7ac8668f.chunk.css.map",
+    "static/js/2.0c4d75d6.chunk.js.LICENSE.txt": "/top-games/static/js/2.0c4d75d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16fc4c08.js",
+    "static/js/2.0c4d75d6.chunk.js",
+    "static/css/main.7ac8668f.chunk.css",
+    "static/js/main.bde0f590.chunk.js"
+  ]
+}
